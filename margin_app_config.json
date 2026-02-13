@@ -1,6 +1,7 @@
 {
-  "banner_image_url": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/top.jpg",
+  "banner_image_url": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/margin_app_config.json",
   "banner_click_url": "https://www.bearb2b.com",
   "manual_url": "https://www.bearb2b.com",
   "refresh_minutes": 10
 }
+
