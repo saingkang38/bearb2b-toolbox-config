@@ -1,9 +1,10 @@
 {
-  "banner_image_url": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/top.jpg",
+  "banner_image_url": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/bottom.jpg",
   "banner_click_url": "https://www.bearb2b.com",
   "manual_url": "https://www.bearb2b.com",
   "refresh_minutes": 10
 }
+
 
 
 
