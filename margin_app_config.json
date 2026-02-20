@@ -11,14 +11,15 @@
   "home_grid": {
     "refresh_seconds": 600,
     "items": [
-      { "no": 1, "title": "01 사용설명서 보기", "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_01.jpg", "link": "https://cafe.naver.com/XXXX/notice/1" },
-      { "no": 2, "title": "02 질문하기",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_02.jpg", "link": "https://cafe.naver.com/XXXX/qna" },
-      { "no": 3, "title": "03 업데이트 확인",  "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_03.jpg", "link": "https://cafe.naver.com/XXXX/notice" },
-      { "no": 4, "title": "04 다운로드",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_04.jpg", "link": "https://cafe.naver.com/XXXX/download" },
-      { "no": 5, "title": "05 튜토리얼",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_05.jpg", "link": "https://www.youtube.com/" },
-      { "no": 6, "title": "06 FAQ",            "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_06.jpg", "link": "https://cafe.naver.com/XXXX/faq" },
-      { "no": 7, "title": "07 공지사항",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_07.jpg", "link": "https://cafe.naver.com/XXXX/notice" },
-      { "no": 8, "title": "08 기능요청",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/main/home_08.jpg", "link": "https://cafe.naver.com/XXXX/feature" }
+      { "no": 1, "title": "01 사용설명서 보기", "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile1.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 2, "title": "02 질문하기",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile2.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 3, "title": "03 업데이트 확인",  "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile3.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 4, "title": "04 다운로드",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile4.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 5, "title": "05 튜토리얼",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile5.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 6, "title": "06 FAQ",            "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile6.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 7, "title": "07 공지사항",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile7.jpg", "link": "https://www.bearb2b.com" },
+      { "no": 8, "title": "08 기능요청",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/tile8.jpg", "link": "https://www.bearb2b.com" },
     ]
   }
 }
+
