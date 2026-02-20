@@ -1,11 +1,11 @@
 {
-  "banner_image_url": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/bottom.jpg",
-  "banner_click_url": "https://www.bearb2b.com",
-  "manual_url": "https://www.bearb2b.com",
-  "refresh_minutes": 10
+  "banner": {
+    "refresh_seconds": 600,
+    "slide_seconds": 5,
+    "items": [
+      {"image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/banner1.jpg", "link": "https://www.naver.com/"},
+      {"image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/banner2.jpg", "link": "https://www.daum.net/"},
+      {"image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/banner3.jpg", "link": "https://www.google.com/"}
+    ]
+  }
 }
-
-
-
-
-
