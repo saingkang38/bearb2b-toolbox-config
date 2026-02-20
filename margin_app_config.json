@@ -7,5 +7,20 @@
       {"image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/banner2.jpg", "link": "https://www.daum.net/"},
       {"image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/banner3.jpg", "link": "https://www.google.com/"}
     ]
+  },
+
+  "home_grid": {
+    "refresh_seconds": 600,
+    "items": [
+      { "no": 1, "title": "사용설명서",    "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_01.jpg", "link": "https://cafe.naver.com/XXXX/notice/1" },
+      { "no": 2, "title": "질문하기(Q&A)", "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_02.jpg", "link": "https://cafe.naver.com/XXXX/qna" },
+      { "no": 3, "title": "업데이트 확인", "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_03.jpg", "link": "https://cafe.naver.com/XXXX/updates" },
+      { "no": 4, "title": "다운로드/배포", "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_04.jpg", "link": "https://cafe.naver.com/XXXX/download" },
+
+      { "no": 5, "title": "튜토리얼(유튜브)", "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_05.jpg", "link": "https://www.youtube.com/playlist?list=XXXXX" },
+      { "no": 6, "title": "자주 묻는 질문",  "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_06.jpg", "link": "https://cafe.naver.com/XXXX/faq" },
+      { "no": 7, "title": "공지사항",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_07.jpg", "link": "https://cafe.naver.com/XXXX/notice" },
+      { "no": 8, "title": "기능요청",       "image": "https://raw.githubusercontent.com/saingkang38/bearb2b-toolbox-config/refs/heads/main/home_08.jpg", "link": "https://cafe.naver.com/XXXX/feature" }
+    ]
   }
 }
